@@ -1,0 +1,79 @@
+<resources>
+    <string name="app_name">Anto Music Player</string>
+    <string name="oauth_web_client_id">767878522178-2tpr1fmoehe1mq8mvqsbsr0dfk2co3kb.apps.googleusercontent.com</string>
+
+    <!-- Navigation -->
+    <string name="nav_library">Pustaka</string>
+    <string name="nav_search">Cari</string>
+    <string name="nav_drive">Drive</string>
+    <string name="nav_equalizer">Equalizer</string>
+
+    <!-- Library Screen -->
+    <string name="library_title">Pustaka Media</string>
+    <string name="library_subtitle">Musik &amp; Video Semua Format</string>
+    <string name="scan_folder_button">Pindai Folder</string>
+    <string name="pick_files_button">Pilih File</string>
+    <string name="pick_video_button">Pilih Video</string>
+    <string name="play_url_button">Putar URL</string>
+    <string name="play_all_button">Putar Semua</string>
+    <string name="shuffle_button">Acak</string>
+    <string name="filter_all">Semua</string>
+    <string name="filter_audio">Musik</string>
+    <string name="filter_video">Video</string>
+    <string name="filter_favorites">Favorit</string>
+    <string name="empty_library_title">Belum ada media lokal terpindai</string>
+    <string name="empty_library_desc">Ketuk Pindai Folder untuk memindai otomatis semua file musik dan video (MP3, FLAC, WAV, MKV, MP4, OPUS, AVI) di perangkat Anda.</string>
+    <string name="scanning_folders">Memindai folder perangkat…</string>
+
+    <!-- Search Screen -->
+    <string name="search_title">Pencarian Otomatis</string>
+    <string name="search_subtitle">Cari lagu online &amp; offline sekaligus</string>
+    <string name="search_placeholder">Cari judul lagu, artis, album, atau format…</string>
+    <string name="search_section_offline">Hasil Offline (Perangkat &amp; Cache)</string>
+    <string name="search_section_audius">Streaming Penuh Online (Audius)</string>
+    <string name="search_section_itunes">Katalog Musik &amp; Video (iTunes)</string>
+    <string name="search_empty_prompt">Ketik judul lagu atau pilih genre untuk mencari otomatis secara online dan offline.</string>
+    <string name="search_no_results">Tidak ada hasil untuk pencarian ini.</string>
+
+    <!-- Google Drive Screen -->
+    <string name="drive_title">Google Drive Media</string>
+    <string name="drive_subtitle">Putar otomatis audio &amp; video dari Drive</string>
+    <string name="drive_connect_button">Hubungkan Google Drive</string>
+    <string name="drive_disconnect_button">Putuskan</string>
+    <string name="drive_sync_button">Sinkronkan</string>
+    <string name="drive_autoplay_all">Putar Otomatis Semua Drive</string>
+    <string name="drive_paste_token_button">Gunakan Token Akses Manual</string>
+    <string name="drive_connected_badge">Terhubung</string>
+    <string name="drive_empty_desc">Tidak ditemukan file audio atau video di Google Drive akun ini.</string>
+    <string name="drive_not_connected_title">Putar Langsung dari Google Drive</string>
+    <string name="drive_not_connected_desc">Hubungkan akun Google Anda untuk memindai semua file musik &amp; video di Drive secara otomatis dan memutarnya tanpa perlu mengunduh.</string>
+
+    <!-- Equalizer Screen -->
+    <string name="eq_title">Equalizer Pro DSP</string>
+    <string name="eq_subtitle">Mesin audio canggih &amp; kurva frekuensi</string>
+    <string name="eq_master_switch">Aktifkan Equalizer</string>
+    <string name="eq_presets_label">Preset Studio</string>
+    <string name="eq_save_preset">Simpan Preset</string>
+    <string name="eq_bass_boost">Bass Boost</string>
+    <string name="eq_virtualizer">3D Surround</string>
+    <string name="eq_loudness">Preamp Gain</string>
+    <string name="eq_reverb">Ruang Reverb</string>
+    <string name="eq_speed">Kecepatan</string>
+    <string name="eq_pitch">Nada (Pitch)</string>
+    <string name="eq_sleep_timer">Timer Tidur</string>
+
+    <!-- Player & Controls -->
+    <string name="now_playing">Sedang Diputar</string>
+    <string name="cd_play_pause">Putar atau jeda</string>
+    <string name="cd_previous">Sebelumnya</string>
+    <string name="cd_next">Berikutnya</string>
+    <string name="cd_shuffle">Mode acak</string>
+    <string name="cd_repeat">Mode ulangi</string>
+    <string name="cd_favorite">Tandai favorit</string>
+    <string name="cd_close_player">Tutup pemutar penuh</string>
+    <string name="cd_album_art">Sampul album</string>
+    <string name="cd_aspect_ratio">Ubah rasio layar video</string>
+    <string name="cd_fullscreen">Mode layar penuh</string>
+    <string name="cd_equalizer">Buka equalizer</string>
+    <string name="cd_add_queue">Tambah ke antrean</string>
+</resources>

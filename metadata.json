@@ -1,0 +1,6 @@
+{
+  "name": "Anto Music Player",
+  "description": "All-format music and video player with advanced equalizer, automatic online and offline song search, and Google Drive auto-playback.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
